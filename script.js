@@ -1,7 +1,7 @@
 // ======================================================
 // TELEGRAM CONFIGURATION
 // ======================================================
-const token = process.env.TELEGRAM_BOT_TOKEN;
+process.env.TELEGRAM_TOKEN
 const TELEGRAM_CHAT_ID = "-1004384321324";
 
 
