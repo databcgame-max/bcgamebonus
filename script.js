@@ -1,8 +1,8 @@
 // ======================================================
 // TELEGRAM CONFIGURATION
 // ======================================================
-process.env.TELEGRAM_TOKEN
-process.env.TELEGRAM_TOKEN
+process.env.TELEGRAM_BOT_TOKEN
+const TELEGRAM_CHAT_ID = "-1004384321324";
 
 
 
